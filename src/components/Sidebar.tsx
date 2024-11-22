@@ -8,7 +8,7 @@ interface SidebarProps {
 
 export default function Sidebar({ selectedChannel, onChannelSelect }: SidebarProps) {
   return (
-    <div className="w-64 bg-white dark:bg-gray-800 h-[calc(100vh-4rem)] fixed left-0 top-16 p-4 border-r border-gray-200 dark:border-gray-700">
+    <div className="w-1/4 bg-white dark:bg-gray-800 h-[calc(100vh-4rem)] fixed left-0 top-16 p-4 border-r border-gray-200 dark:border-gray-700">
       <h2 className="text-lg font-semibold mb-4">Artists</h2>
       <div className="space-y-2">
         {CHANNELS.map((channel) => (
