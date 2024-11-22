@@ -133,6 +133,30 @@ export const CHANNELS = [
         id: 'rJSKuux7NOk',
         title: 'عشان خاطر العدرا',
         thumbnail: `https://img.youtube.com/vi/rJSKuux7NOk/0.jpg`,
+      },{
+        id: 'el-I4KDLRrM',
+        title: 'سيد الكون',
+        thumbnail: `https://img.youtube.com/vi/el-I4KDLRrM/maxresdefault.jpg`,
+      },
+      {
+        id: 'Hm2XEIdLeQ4',
+        title: 'يستجيب الاله',
+        thumbnail: `https://img.youtube.com/vi/Hm2XEIdLeQ4/maxresdefault.jpg`,
+      },
+      {
+        id: 'JXUdtqFPw_c',
+        title: 'انا شاعر بيك',
+        thumbnail: `https://img.youtube.com/vi/JXUdtqFPw_c/maxresdefault.jpg`,
+      },
+      {
+        id: 'i1yG1bNKgSs',
+        title: 'الوضع اتغير',
+        thumbnail: `https://img.youtube.com/vi/i1yG1bNKgSs/maxresdefault.jpg`,
+      },
+      {
+        id: 'vFJQwUMsd2o',
+        title: 'منتهى اللذة',
+        thumbnail: `https://img.youtube.com/vi/vFJQwUMsd2o/maxresdefault.jpg`,
       },
     ],
   },
@@ -185,8 +209,22 @@ export const CHANNELS = [
           title: 'قداس ابونا اسطفانوس رزق',
           thumbnail: `https://img.youtube.com/vi/BCtfIRycb_I/maxresdefault.jpg`,
         },
-        
+        {
+          id: 'Vt1QLt845ss',
+          title: 'قداس ابونا رويس فريد',
+          thumbnail: `https://img.youtube.com/vi/Vt1QLt845ss/maxresdefault.jpg`,
+        },
       ],
     },
+    { id: 'channel5',
+    name: ' كورال قلب داوود ',
+    videos: [
+      {
+        id: 'aibvA9JTl1A',
+        title: 'اصليله',
+        thumbnail: `https://img.youtube.com/vi/aibvA9JTl1A/maxresdefault.jpg`,
+      },
+    ],
+  },
   
 ] as const;
