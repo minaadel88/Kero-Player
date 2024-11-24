@@ -309,6 +309,21 @@ export const CHANNELS = [
         title: 'ابو سفين',
         thumbnail: `https://img.youtube.com/vi/9kn4uWyb-3o/maxresdefault.jpg`,
       },
+      {
+        id: 'e53PQZ67FiI',
+        title: 'اسطفانوس',
+        thumbnail: `https://img.youtube.com/vi/e53PQZ67FiI/maxresdefault.jpg`,
+      },
+      {
+        id: 'PuifHxrUg6o',
+        title: 'فيلومينا',
+        thumbnail: `https://img.youtube.com/vi/PuifHxrUg6o/maxresdefault.jpg`,
+      },
+      {
+        id: 'oxLJQPeOSgI',
+        title: 'ابانوب',
+        thumbnail: `https://img.youtube.com/vi/oxLJQPeOSgI/maxresdefault.jpg`,
+      },
     ],
   },
 ] as const;
