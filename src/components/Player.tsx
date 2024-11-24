@@ -116,7 +116,7 @@ export default function Player() {
               <img 
                 src={currentTrack.thumbnail} 
                 alt={currentTrack.title} 
-                className="w-12 h-12 rounded object-cover"
+                className={`w-12 h-12 rounded-full object-cover ${isPlaying ? 'animate-spin-slow' : ''}`}
               />
               <div className="min-w-0">
                 <h3 className="text-sm font-medium truncate">{currentTrack.title}</h3>
