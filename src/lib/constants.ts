@@ -105,7 +105,7 @@ export const CHANNELS = [
         thumbnail: `https://img.youtube.com/vi/ZRYXfjqrKa8/0.jpg`,
       },
       {
-        id: '7UmjIZck86A',
+        id: 'VEQ3p_A1_jY',
         title: 'وقت الصلاة',
         thumbnail: `https://img.youtube.com/vi/7UmjIZck86A/0.jpg`,
       },
@@ -226,5 +226,89 @@ export const CHANNELS = [
       },
     ],
   },
-  
+  { id: 'channel6',
+    name: '  عظات بالموسيقى  ',
+    videos: [
+      {
+        id: 'v-H3gSyvgDE',
+        title: 'اقعد مع ربنا واحكى معاه لابونا يوسف داوود',
+        thumbnail: `https://img.youtube.com/vi/v-H3gSyvgDE/maxresdefault.jpg`,
+      },
+      {
+        id: 'DdYdp5Dpr5M',
+        title: 'تهدى الاعصاب لابونا اغسطينوس موريس',
+        thumbnail: `https://img.youtube.com/vi/DdYdp5Dpr5M/maxresdefault.jpg`,
+      },
+      {
+        id: 'zpWx2MR5o28',
+        title: 'لية يارب لابونا داود لمعى',
+        thumbnail: `https://img.youtube.com/vi/zpWx2MR5o28/maxresdefault.jpg`,
+      },
+      {
+        id: 'H9LJWPIDdqY',
+        title: 'تامل الله اله الضعفاء لمثلث الرحمات البابا شنودة الثالث',
+        thumbnail: `https://img.youtube.com/vi/H9LJWPIDdqY/maxresdefault.jpg`,
+      },
+      {
+        id: 'f34NtpY9oXA',
+        title: 'ليه مش فرحان لمثلث الرحمات الانبا كاراس اسقف المحلة',
+        thumbnail: `https://img.youtube.com/vi/f34NtpY9oXA/maxresdefault.jpg`,
+      },
+    ],
+  },
+  { id: 'channel7',
+    name: 'تمجيد ومدائح الملائكة والقدسين',
+    videos: [
+      {
+        id: 'tNtSqbrmkVo',
+        title: 'مديح باكر',
+        thumbnail: `https://img.youtube.com/vi/tNtSqbrmkVo/maxresdefault.jpg`,
+      },
+      {
+        id: 'Ya8UHJeyJ04',
+        title: 'الملاك ميخائيل',
+        thumbnail: `https://img.youtube.com/vi/Ya8UHJeyJ04/maxresdefault.jpg`,
+      },
+      {
+        id: '5qhzVwKrmbk',
+        title: 'الملاك روفائيل',
+        thumbnail: `https://img.youtube.com/vi/5qhzVwKrmbk/maxresdefault.jpg`,
+      },
+      {
+        id: '-anqRx1qmgs',
+        title: 'الملاك غبريال',
+        thumbnail: `https://img.youtube.com/vi/-anqRx1qmgs/maxresdefault.jpg`,
+      },
+      {
+        id: 'x7ufgSEeAh0',
+        title: 'تمجيد العذراء مريم',
+        thumbnail: `https://img.youtube.com/vi/x7ufgSEeAh0/maxresdefault.jpg`,
+      },
+      {
+        id: 'mY7kSIdAmTw',
+        title: 'مارمرقس الرسول',
+        thumbnail: `https://img.youtube.com/vi/mY7kSIdAmTw/maxresdefault.jpg`,
+      },
+      {
+        id: 'xJX7yASiEjo',
+        title: 'مارجرجس',
+        thumbnail: `https://img.youtube.com/vi/xJX7yASiEjo/maxresdefault.jpg`,
+      },
+      {
+        id: 'ti10zUV9epw',
+        title: 'مارمينا',
+        thumbnail: `https://img.youtube.com/vi/ti10zUV9epw/maxresdefault.jpg`,
+      },
+      {
+        id: 'XSQxEW_V16k',
+        title: 'البابا كيرلس',
+        thumbnail: `https://img.youtube.com/vi/XSQxEW_V16k/maxresdefault.jpg`,
+      },
+      {
+        id: '9kn4uWyb-3o',
+        title: 'ابو سفين',
+        thumbnail: `https://img.youtube.com/vi/9kn4uWyb-3o/maxresdefault.jpg`,
+      },
+    ],
+  },
 ] as const;
