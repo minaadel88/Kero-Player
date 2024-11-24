@@ -326,4 +326,91 @@ export const CHANNELS = [
       },
     ],
   },
+  { id: 'channel8',
+    name: '    صلاوات الاجبية',
+    videos: [
+      {
+        id: 'b8LMGJ-uPOs',
+        title: 'صلاة باكر',
+        thumbnail: `https://img.youtube.com/vi/b8LMGJ-uPOs/maxresdefault.jpg`,
+      },
+      {
+        id: 'W94vp1hcNR8',
+        title: 'الساعة الثالثة',
+        thumbnail: `https://img.youtube.com/vi/W94vp1hcNR8/maxresdefault.jpg`,
+      },
+      {
+        id: 'YfHvswX1h3M',
+        title: 'الساعة السادسة',
+        thumbnail: `https://img.youtube.com/vi/YfHvswX1h3M/maxresdefault.jpg`,
+      },
+      {
+        id: 'AdJ6DKLRk2E',
+        title: 'الساعة التاسعة',
+        thumbnail: `https://img.youtube.com/vi/AdJ6DKLRk2E/maxresdefault.jpg`,
+      },
+      {
+        id: 'rn0Is0fKmfE',
+        title: 'الغروب',
+        thumbnail: `https://img.youtube.com/vi/rn0Is0fKmfE/maxresdefault.jpg`,
+      },
+      {
+        id: 'QFvNL7y5mFc',
+        title: 'النوم',
+        thumbnail: `https://img.youtube.com/vi/QFvNL7y5mFc/maxresdefault.jpg`,
+      },
+      {
+        id: 'SWSEuMy05DU',
+        title: 'نصف الليل الخدمة الاولى',
+        thumbnail: `https://img.youtube.com/vi/SWSEuMy05DU/maxresdefault.jpg`,
+      },
+      {
+        id: 'sdVbNZCyeX4',
+        title: 'صلاة نصف الليل الخدمة الثانية',
+        thumbnail: `https://img.youtube.com/vi/sdVbNZCyeX4/maxresdefault.jpg`,
+      },
+    ],
+  },
+  { id: 'channel9',
+    name: '   الميلاد وصوم كيهك ',
+    videos: [
+      {
+        id: 'FpSukuKAKLY',
+        title: 'مدائح كيهك',
+        thumbnail: `https://img.youtube.com/vi/FpSukuKAKLY/maxresdefault.jpg`,
+      },
+      {
+        id: 'LrCrV8nzXAI',
+        title: 'خطرت حمامة فى بيت ذكرية',
+        thumbnail: `https://img.youtube.com/vi/LrCrV8nzXAI/maxresdefault.jpg`,
+      },
+      
+      {
+        id: 'zIKo_Xu3M1w',
+        title: 'السلام لك يامريم',
+        thumbnail: `https://img.youtube.com/vi/zIKo_Xu3M1w/maxresdefault.jpg`,
+      },
+      {
+        id: 'AOKJgqPvQGg',
+        title: 'الهوس الاول',
+        thumbnail: `https://img.youtube.com/vi/AOKJgqPvQGg/maxresdefault.jpg`,
+      },
+      {
+        id: 'jjW0orIXhNg',
+        title: 'امدح فى البتول',
+        thumbnail: `https://img.youtube.com/vi/jjW0orIXhNg/maxresdefault.jpg`,
+      },
+      {
+        id: 'R4t6sDd5wBc',
+        title: 'ميدلى الميلاد',
+        thumbnail: `https://img.youtube.com/vi/R4t6sDd5wBc/maxresdefault.jpg`,
+      },
+      {
+        id: 'vJto8iI1ccY',
+        title: 'ذكصولوجية الميلاد',
+        thumbnail: `https://img.youtube.com/vi/vJto8iI1ccY/maxresdefault.jpg`,
+      },
+      
+    ],
+  },
 ] as const;
