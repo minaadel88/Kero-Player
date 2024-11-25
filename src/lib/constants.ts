@@ -258,7 +258,7 @@ export const CHANNELS = [
          id: 'Z3fLnMi6cn4',
          title: 'تفسير سفر اشعياء 49-52 لابونا داود لمعى',
           thumbnail: `https://img.youtube.com/vi/Z3fLnMi6cn4/maxresdefault.jpg`,
-      };
+      },
     ],
   },
   { id: 'channel7',
