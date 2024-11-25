@@ -254,6 +254,11 @@ export const CHANNELS = [
         title: 'ليه مش فرحان لمثلث الرحمات الانبا كاراس اسقف المحلة',
         thumbnail: `https://img.youtube.com/vi/f34NtpY9oXA/maxresdefault.jpg`,
       },
+      {
+         id: 'Z3fLnMi6cn4',
+         title: 'تفسير سفر اشعياء 49-52 لابونا داود لمعى',
+          thumbnail: `https://img.youtube.com/vi/Z3fLnMi6cn4/maxresdefault.jpg`,
+      };
     ],
   },
   { id: 'channel7',
